@@ -1,0 +1,11 @@
+{
+    "firstname": "Nathanielly",
+    "lastname": "Oliveira",
+    "totalprice": 123,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2024-01-23",
+        "checkout": "2024-01-31"
+    },
+    "additionalneeds": "Curso de formação Iterasys"
+}
